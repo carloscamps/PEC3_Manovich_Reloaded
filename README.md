@@ -10,7 +10,7 @@ Data: 20/12/2022
 
 
 
-![OIP](...\OIP.jpg)
+![OIP](OIP.jpg)
 
  
 
