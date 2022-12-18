@@ -62,8 +62,6 @@ La Capella te forma rectangular i te 40,93 metres de longitud per 13,41m d’amp
 
 **Vista exterior de la Capella Sixtina**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VJvSYnqcj7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 Per aconseguir arribar a n’aquest medi ha estat necessari ajuntar diferents medis, com ara els mateixos frescos originals de la pròpia obra, fotografiats amb gran detall, units per a donar l’aparença d’uniformitat amb el visor WebGL Krpano Panorama Viewer, fins el mateix navegador que ens permet visualitzar l’aplicació, el sistema operatiu amb entorn gràfic i tot el hardware que trobem darrera, així com Internet i els protocols necessaris per a que funcioni. Per tant, ens trobem davant un clar exemple d’hibridació dels què ens parla Lev Manovich en el seu llibre “*El software toma el mando*”, sense algun d’aquests components, no seria possible l’aplicació que estam tractant. 
@@ -85,10 +83,6 @@ El segon cas d’estudi sobre un exemple d’hibridació de software, segons la 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Curiosity_rover_self_portrait_at_John_Klein_site_%28PIA16764%2C_cropped%29.jpg/584px-Curiosity_rover_self_portrait_at_John_Klein_site_%28PIA16764%2C_cropped%29.jpg)
 
 ​												**Auto-retrat del *Curiosity***
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4dmgKkY2HO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
