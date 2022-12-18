@@ -30,7 +30,19 @@ En les seves pròpies paraules:
 >
 > Manovich (2013)
 
-Finalment, els dos exemples que he seleccionat són:
+Amb la finalitat d'identificar els casos d'hibridació de mitjans, s'ha de distingir entre els mitjans híbrids i la multimèdia. Segons Manovich, la hibridació dels mitjans és una reconfiguració dels mitjans més profunda que la multimèdia.
+
+> A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos. Para ilustrarlo fijémonos en el uso que damos típicamente a distintos medios en la Red o en las presentaciones de PowerPoint. Imaginemos una página web común y corriente de los años dos mil, consistente en texto y fragmentos de vídeo incrustados en algún lugar de la página. Tanto el texto como el vídeo siguen aislados en todos los sentidos. Sus lenguajes de medios no se cruzan. Cada tipología sigue presentándonos su propia interfaz. En el caso del texto, podemos mover la página arriba y abajo y usar el zoom con los controles del navegador; podemos modificar la configuración del navegador para que se lea en una fuente distinta. En el caso del vídeo, podemos utilizar su interfaz para reproducirlo, ponerlo en pausa o rebobinarlo, mostrar una parte en bucle o cambiar el volumen del sonido. En este ejemplo, los medios están situados uno junto al otro, pero sus interfaces y técnicas no interaccionan. Esto, para mí, es un ejemplo típico de multimedia.
+>
+> Manovich (2013)
+
+És a dir, en la hibridació es produeix una fusió entre els elements que composen les tècnicques de software i interfaç, generant una experiència nova. Pel contrari, cada element de la multimèdia obre el seu propi visor i s'experimenta individualment.
+
+> En la multimedia los elementos conviven, pero cada uno de ellos necesita abrir su propio recurso para ser reproducido: sea audio, vídeo, etc… En la hibridación, en cambio, se da una fusión entre los elementos que comparten las técnicas de software y las interfícies generando una experiencia nueva y coherente, que es diferente a la experimentación de los elementos por separado .
+>
+> Adell (2014)
+
+Finalment, els dos exemples de casos d'hibridació de mitjans que he seleccionat són:
 
 1) La visita virtual de la Capella Sixtina, que ens ofereix el Museu Vaticà. 
 
@@ -50,13 +62,17 @@ La Capella te forma rectangular i te 40,93 metres de longitud per 13,41m d’amp
 
 **Vista exterior de la Capella Sixtina**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VJvSYnqcj7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 Per aconseguir arribar a n’aquest medi ha estat necessari ajuntar diferents medis, com ara els mateixos frescos originals de la pròpia obra, fotografiats amb gran detall, units per a donar l’aparença d’uniformitat amb el visor WebGL Krpano Panorama Viewer, fins el mateix navegador que ens permet visualitzar l’aplicació, el sistema operatiu amb entorn gràfic i tot el hardware que trobem darrera, així com Internet i els protocols necessaris per a que funcioni. Per tant, ens trobem davant un clar exemple d’hibridació dels què ens parla Lev Manovich en el seu llibre “*El software toma el mando*”, sense algun d’aquests components, no seria possible l’aplicació que estam tractant. 
 
 > Cada uno de estos elementos visuales es el resultado del uso de determinadas técnicas de medios para dibujar, fotografiar y realizar gráficos por ordenador. Por lo tanto, aunque denominemos a esos objetos culturales remezclas de contenido, también queda justificado que pensemos en ellos como remezclas de técnicas.
 >
 > (Manovich, 2013)
 
-Tal com explica Monovich podem afirmar que en aquest cas es crea un metallenguatge, aplicant el significat de -meta que comenta Alon Kay, que significa inclusió/acumulació, en definitiva, la unió de realitats que anteriorment existien per separat.
+Tal com explica Manovich podem afirmar que en aquest cas es crea un metallenguatge, aplicant el significat de -meta que comenta Alon Kay, que significa inclusió/acumulació, en definitiva, la unió de realitats que anteriorment existien per separat.
 
 [Enllaç a la visita virtual a la Capella Sixtina](https://m.museivaticani.va/content/museivaticani-mobile/es/collezioni/musei/cappella-sistina/tour-virtuale.html)
 
@@ -72,13 +88,23 @@ El segon cas d’estudi sobre un exemple d’hibridació de software, segons la 
 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4dmgKkY2HO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 En resum, també estam davant un clar exemple d’hibridació, on s’ajunten tota una sèrie de mitjans, per oferir un nou mitjà integrat.
 
 > Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.
 >
 > Manovich (2013)
 
- 
+ Des del punt de vista de les teories i conceptes dels nous mitjans, l'aplicació web Experience Curiosity és una hibridació de mitjans, ja que  en els mitjans híbrids els llenguatges de diferents mitjans es fusionen, intercanviant propietats, creant noves estructures i experiències.
+
+> [...] en los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos. Por ejemplo, en los gráficos en movimiento el texto asume muchas propiedades que habían sido exclusivas del cine, la animación o el diseño gráfico. Dicho de otra manera, aunque conserva sus antiguas dimensiones tipográficas, como la familia de fuentes, el cuerpo o el interlineado, el texto también adquiere nuevas posibilidades expresivas procedentes del cine y la animación por ordenador.
+>
+> Manovich (2013)
+
+
 
 A l’Experience Curiosity es combinen fotografia, gràfics per ordinador en 3D, fotografia fixa i vídeo, creant un d’aquells híbrids dels que ens parla Lev Manovich, per la qual cosa ens resulta un bon motiu d’estudi per tractar aquí.
 
