@@ -56,7 +56,7 @@ Finalment, els dos exemples de casos d'hibridació de mitjans que he seleccionat
 
 L’arquitecte va ser Giovannino de Dolci, tot i que va ser dissenyada per Boccio Pontelli. És coneguda per ser el lloc on es celebra el conclave i altres cerimònies oficials com les coronacions papals, així com per haver estat decorada pel genial artista Miquel Ángel Buonarroti. 
 
-La Capella te forma rectangular i te 40,93 metres de longitud per 13,41m d’amplària (les dimensions del Temple de Salomó, segons l’Antic Testament). L’altura és de 20,7m. L’artista del renaixement Miquel Àngel va ser l’encarregat de pintar-ne els murs amb escenes bíbliques i que podem visitar des de qualsevol lloc gràcies a una aplicació Web que ens permet fer un recorregut virtual d’aquesta gran obra artística. 
+La Capella te forma rectangular i te 40,93 metres de longitud per 13,41m d’amplària (les mateixes dimensions del Temple de Salomó, segons l’Antic Testament). L’altura és de 20,7m. L’artista del renaixement Miquel Àngel va ser l’encarregat de pintar-ne els murs amb escenes bíbliques i que podem visitar des de qualsevol lloc gràcies a una aplicació Web que ens permet fer un recorregut virtual d’aquesta gran obra artística. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1c/Cappella_Sistina_-_2005.jpg)
 
