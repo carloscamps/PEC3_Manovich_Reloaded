@@ -64,7 +64,13 @@ La Capella te forma rectangular i te 40,93 metres de longitud per 13,41m d’amp
 
 
 
-Per aconseguir arribar a n’aquest medi ha estat necessari ajuntar diferents medis, com ara els mateixos frescos originals de la pròpia obra, fotografiats amb gran detall, units per a donar l’aparença d’uniformitat amb el visor WebGL Krpano Panorama Viewer, fins el mateix navegador que ens permet visualitzar l’aplicació, el sistema operatiu amb entorn gràfic i tot el hardware que trobem darrera, així com Internet i els protocols necessaris per a que funcioni. Per tant, ens trobem davant un clar exemple d’hibridació dels què ens parla Lev Manovich en el seu llibre “*El software toma el mando*”, sense algun d’aquests components, no seria possible l’aplicació que estam tractant. 
+Per aconseguir arribar a n’aquest medi ha estat necessari ajuntar diferents medis, com ara els mateixos frescos originals de la pròpia obra, fotografiats amb gran detall, units per a donar l’aparença d’uniformitat amb el visor WebGL Krpano Panorama Viewer, fins el mateix navegador que ens permet visualitzar l’aplicació, el sistema operatiu amb entorn gràfic i tot el hardware que trobem darrera, així com Internet i els protocols necessaris per a que funcioni. Per tant, ens trobem davant un clar exemple d’hibridació dels què ens parla Lev Manovich en el seu llibre “*El software toma el mando*”, sense algun d’aquests components, no seria possible l’aplicació que estam tractant.
+
+![](https://i.ytimg.com/vi/VJvSYnqcj7o/maxresdefault.jpg)
+
+**Captura de la visita virtual a la Capella Sixtina**
+
+
 
 > Cada uno de estos elementos visuales es el resultado del uso de determinadas técnicas de medios para dibujar, fotografiar y realizar gráficos por ordenador. Por lo tanto, aunque denominemos a esos objetos culturales remezclas de contenido, también queda justificado que pensemos en ellos como remezclas de técnicas.
 >
@@ -91,6 +97,14 @@ En resum, també estam davant un clar exemple d’hibridació, on s’ajunten to
 > Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.
 >
 > Manovich (2013)
+
+
+
+![](https://www.blend4web.com/media/video/experience_curiosity_screen1.jpg)
+
+**Captura de l'aplicació Experience Curiosity**
+
+
 
  Des del punt de vista de les teories i conceptes dels nous mitjans, l'aplicació web Experience Curiosity és una hibridació de mitjans, ja que  en els mitjans híbrids els llenguatges de diferents mitjans es fusionen, intercanviant propietats, creant noves estructures i experiències.
 
