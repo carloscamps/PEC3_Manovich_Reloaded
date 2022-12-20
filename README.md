@@ -50,7 +50,7 @@ Finalment, els dos exemples de casos d'hibridació de mitjans que he seleccionat
 
 
 
- ## Redescubrint la hibridació: Visita virtual a la Capella Sixtina
+ ## Redescobrint la hibridació: Visita virtual a la Capella Sixtina
 
  La Capella Sixtina és un dels més famosos tresors artístics de la ciutat del Vaticà, construïda entre el 1471 i el 1484, en l’època del papa Sixt IV, d’on procedeix el nom pel qual és coneguda, encara que inicialment es va anomenar Capella Palatina.
 
@@ -76,7 +76,7 @@ Tal com explica Manovich podem afirmar que en aquest cas es crea un metallenguat
 
  
 
- ## Redescubrint la hibridació: Experience Curiosity
+ ## Redescobrint la hibridació: Experience Curiosity
 
 El segon cas d’estudi sobre un exemple d’hibridació de software, segons la temàtica exposada per Lev Manovich és la WebGL de l’experience curiosity, creada per la Nasa. En aquesta aplicació podem veure com és el Rover Curiosity, enviat al planeta Mart el 26 de novembre de 2011. Aquesta pàgina resulta una experiència immersiva, on es veuen elements creats en 3D de l’enginy, juntament amb fotografies reals fetes pel mateix Rover al planeta Mart, amb explicacions textuals de les diferents parts que composen la Mars Science Laboratory, nom oficial d’aquesta missió. Amb el mouse podem tenir una visió completa i detallada de l’astromòbil juntament amb una explicació de tots els instruments que el composen. 
 
